@@ -1,0 +1,23 @@
+b(x)w
+alpha{  beta<gamma}delta>
+(([[Turing]])
+The ( quick [ brown ( fox ( jumped  ) over ) the ] lazy ) dog )
+< { }
+> html <
+ab[x]w
+alpha{  beta<gamma>delta}
+([[Turing]])
+The ( quick [ brown ( fox ( jumped  ) over ) the ] lazy ) dog 
+metamorphosis
+< html >
+( [ < { } > ] ) < < ( )  > >
+) () (
+} [ ]
+< [] [] () <> {} >
+( abc ( def [ ghi [ jkl ( mno ) ] pqr < stu > ] vwx ) yz )
+<<><><<>>>>
+{{{}}}{{}{}}
+()[]<>{}()
+( when [ in { the < course ( of ) > } human ] events
+( abcdefg ) hijk
+ i { think ( therefore ) < i > am ) }
